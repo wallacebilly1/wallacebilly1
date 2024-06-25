@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Billy</h1>
+<h1 align="center">Hi, I'm Billy</h1>
 <h3 align="center">Passionate about readable, well-tested code, increasing organizational efficiency, and equitable access to education.</h3>
 
 - 🔭 I’m currently working on [The Sunken Isles First Mate](https://github.com/The-Sunken-Isles-First-Mate)
